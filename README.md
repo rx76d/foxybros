@@ -12,7 +12,7 @@ Godot Engine (latest stable version recommended)
 ## How to Run
 
 Clone the repository:
-git clone https://github.com/CodingQuests/Platformer-game.git
+git clone https://github.com/rx76d/foxybros
 
 Open Godot Engine.
 
